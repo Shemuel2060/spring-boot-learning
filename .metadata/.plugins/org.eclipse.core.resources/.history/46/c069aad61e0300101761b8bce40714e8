@@ -1,0 +1,5 @@
+package io.iona.models;
+
+public class Users {
+
+}

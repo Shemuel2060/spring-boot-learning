@@ -1,0 +1,6 @@
+spring.application.name=joblify
+
+# define actuator end points
+management.endpoints.web.exposure.include=health,info,beans
+ # show health details
+management.endpoint.health.show-details=always

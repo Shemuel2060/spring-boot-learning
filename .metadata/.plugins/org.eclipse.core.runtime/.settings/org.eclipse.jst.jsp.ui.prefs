@@ -1,0 +1,10 @@
+SCRIPT_AREA_BORDER=\#F9FAF4 | null | false | false | false | false
+commentBorder=\#5F5F5F | null | false | false | false | false
+commentText=\#5F5F5F | null | false | false | false | false
+eclipse.preferences.version=1
+jsp_content=\#BCAC8F | null | null | null | null | null
+overriddenByCSS=,SCRIPT_AREA_BORDER,tagBorder,tagAttributeValue,tagAttributeEquals,jsp_content,commentBorder,tagAttributeName,commentText,
+tagAttributeEquals=\#BCAC8F | null | null | null | null | null
+tagAttributeName=\#EA603E | null | true | false | false | false
+tagAttributeValue=\#CC7F66 | null | false | false | false | false
+tagBorder=\#798283 | null | false | false | false | false

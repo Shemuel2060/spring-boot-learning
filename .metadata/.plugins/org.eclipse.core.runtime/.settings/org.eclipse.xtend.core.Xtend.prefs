@@ -1,0 +1,16 @@
+AbstractTextEditor.Color.Background=25,29,31
+AbstractTextEditor.Color.Foreground=188,172,143
+eclipse.preferences.version=1
+org.eclipse.xtend.core.Xtend.syntaxColorer.tokenStyles.comment.color=95,95,95
+org.eclipse.xtend.core.Xtend.syntaxColorer.tokenStyles.default.color=188,172,143
+org.eclipse.xtend.core.Xtend.syntaxColorer.tokenStyles.keyword.color=234,96,62
+org.eclipse.xtend.core.Xtend.syntaxColorer.tokenStyles.number.color=219,152,51
+org.eclipse.xtend.core.Xtend.syntaxColorer.tokenStyles.punctuation.color=255,143,46
+org.eclipse.xtend.core.Xtend.syntaxColorer.tokenStyles.string.color=204,127,102
+org.eclipse.xtend.core.Xtend.syntaxColorer.tokenStyles.xbase.annotation.color=191,191,191
+org.eclipse.xtend.core.Xtend.syntaxColorer.tokenStyles.xbase.extension.method.invacation.color=121,130,131
+org.eclipse.xtend.core.Xtend.syntaxColorer.tokenStyles.xbase.field.color=255,198,47
+org.eclipse.xtend.core.Xtend.syntaxColorer.tokenStyles.xbase.static.field.color=255,198,47
+org.eclipse.xtend.core.Xtend.syntaxColorer.tokenStyles.xbase.static.method.invocation.color=150,236,63
+org.eclipse.xtend.core.Xtend.syntaxColorer.tokenStyles.xtend.richText.bgColor=39,44,48
+overriddenByCSS=,AbstractTextEditor.Color.Background,org.eclipse.xtend.core.Xtend.syntaxColorer.tokenStyles.xtend.richText.bgColor,AbstractTextEditor.Color.Foreground,org.eclipse.xtend.core.Xtend.syntaxColorer.tokenStyles.comment.color,org.eclipse.xtend.core.Xtend.syntaxColorer.tokenStyles.default.color,org.eclipse.xtend.core.Xtend.syntaxColorer.tokenStyles.keyword.color,org.eclipse.xtend.core.Xtend.syntaxColorer.tokenStyles.number.color,org.eclipse.xtend.core.Xtend.syntaxColorer.tokenStyles.punctuation.color,org.eclipse.xtend.core.Xtend.syntaxColorer.tokenStyles.string.color,org.eclipse.xtend.core.Xtend.syntaxColorer.tokenStyles.xbase.annotation.color,org.eclipse.xtend.core.Xtend.syntaxColorer.tokenStyles.xbase.extension.method.invacation.color,org.eclipse.xtend.core.Xtend.syntaxColorer.tokenStyles.xbase.field.color,org.eclipse.xtend.core.Xtend.syntaxColorer.tokenStyles.xbase.static.field.color,org.eclipse.xtend.core.Xtend.syntaxColorer.tokenStyles.xbase.static.method.invocation.color,

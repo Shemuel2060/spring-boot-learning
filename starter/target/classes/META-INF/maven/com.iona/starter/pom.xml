@@ -1,0 +1,48 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.iona</groupId>
+	<artifactId>starter</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>boot-starter</name>
+
+	<!-- STEP 1: Inherit from parent spring obot project -->
+	<parent>
+		<!--   	
+  	It specifies that this project is a child of the spring-boot-start-parent
+  	project. Configurations in the parent are inherited by this project.  	
+  	
+  	The spring-boot-starter-parent project has several default maven configuration
+		set.
+  	
+  	-->
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>3.4.3</version>
+	</parent>
+
+	<!-- STEP 2: Declare the dependencies-->
+
+	<dependencies>
+
+		<!--A meta/ parent/ wrapper dependency which includes most of the dependencies
+		needed for web projects. Prevents adding each dependency one by one.
+		
+		 -->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-web</artifactId>
+		</dependency>
+
+
+	</dependencies>
+	
+	<!-- set properties such as java version desired -->
+	
+	<properties>
+		<java.version>21</java.version>
+	</properties>
+
+
+</project>
